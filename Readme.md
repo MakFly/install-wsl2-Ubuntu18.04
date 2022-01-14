@@ -25,3 +25,8 @@ Bien prendre aussi les modules php pour une compatibilité de votre environnemen
 
 8. Installation de composer : 
 => https://www.digitalocean.com/community/tutorials/how-to-install-and-use-composer-on-ubuntu-20-04-fr
+
+9. Installation de symfony-cli :
+ echo 'deb [trusted=yes] https://repo.symfony.com/apt/ /' | sudo tee /etc/apt/sources.list.d/symfony-cli.list
+ sudo apt update
+ sudo apt install symfony-cli
