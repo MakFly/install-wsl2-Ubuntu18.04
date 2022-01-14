@@ -8,7 +8,7 @@
 3. Redémarrer l'ordinateur pour terminer l'installation du WSL et mettre à jour vers le wsl2
 => wsl --set-default-version 2
 
-3. Bis: Vous allez probablement voir ce message apparaître dans le terminal : « WSL 2 requires an update to its kernel component. For information please visit https://aka.ms/wsl2kernel« . Cela indique que vous devez suivre le lien pour télécharger et exécuter un fichier pour installer un noyau linux accessible au WSL 2. Puis, réexécutez la commande pour définir le WSL 2 comme version par défaut.
+3. Vous allez probablement voir ce message apparaître dans le terminal : « WSL 2 requires an update to its kernel component. For information please visit https://aka.ms/wsl2kernel« . Cela indique que vous devez suivre le lien pour télécharger et exécuter un fichier pour installer un noyau linux accessible au WSL 2. Puis, réexécutez la commande pour définir le WSL 2 comme version par défaut.
 
 4. Installation la version 18.04 d'ubuntu puis du windows terminal
 
