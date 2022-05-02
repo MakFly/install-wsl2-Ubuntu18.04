@@ -19,6 +19,7 @@
 => sudo apt-get install php ( Warning: Par défaut à ce jour, il installe la version 7.4 de php )
 Pour passer à la version 8.0 ou 8.1 suivre le tutoriel suivant : https://php.watch/articles/php-8.0-installation-update-guide-debian-ubuntu
 Bien prendre aussi les modules php pour une compatibilité de votre environnement docker si vous en avez un
+changement de version de php => lancer la commande : sudo update-alternatives --config php => choisir dans la liste la version souhaitée à utiliser
 
 7. Installation de docker :
 => https://doc.ubuntu-fr.org/docker
